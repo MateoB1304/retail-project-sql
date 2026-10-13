@@ -1,2 +1,5 @@
 # retail-project-sql
-pre-entrega 2
+
+Crear la base retail_project, conectarse a esa base y ejecutar script.sql completo en pgAdmin o DBeaver.
+
+Nota: los precios de los productos están expresados en dólares (USD).
